@@ -1,7 +1,4 @@
-# Hi 👋, I'm Afif mummad iqbal
-
-### SOFTWARE DEVELOPER
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&section=header&text=Hi,%20I'm%20Afif%20Mummad%20Iqbal&fontSize=40&fontColor=fbe400&fontAlignY=40&desc=Software%20Developer&descSize=25&descAlignY=60" />
 
 
 
