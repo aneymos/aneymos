@@ -26,5 +26,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneymos&" alt="aneymos" /></p>
 
+<div align="right">
+  <img src="./6e51219f7fecc5cda0762beaff0a22ca.jpg" width="40%" alt="Bottom Banner">
+</div>
+
 
 
