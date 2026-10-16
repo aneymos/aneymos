@@ -1,19 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=150&section=header&text=Hi,%20I'm%20Afif%20Mummad%20Iqbal&fontSize=40&fontColor=fbe400&fontAlignY=40&desc=Software%20Developer&descSize=25&descAlignY=60&animation=fadeIn" />
-
-
-- 🔭 I'm currently working on **a Mern Stack developer**
-
-- 🌱 I'm currently learning **Python and C++**
-
-- 👯 I'm looking to collaborate on **open source project**
-
-- 🤝 I'm looking for help with **learning system design**
-
-- 💬 Ask me about **React, Node.js and web development**
-
-- 📫 How to reach me **igabul88@gmail.com**
-
-- ⚡ Fun fact **i think i am funny**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=150&section=header&text=Hi,%20I'm%20Afif%20Mummad%20Iqbal&fontSize=40&fontColor=fbe400&fontAlignY=40&desc=Software%20Developer&descSize=25&descAlignY=60&animation=fadeIn" 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
