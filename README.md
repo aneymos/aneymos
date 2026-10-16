@@ -1,4 +1,14 @@
 
+<div align="center">
+
+  <img src="d0883ef47b226da8c2f78c953a336802.jpg" width="100%" alt="Banner">
+
+  <h1>Hello, I'm Afif Muhammad Iqbal 👋</h1>
+
+  <h3>Software Developer</h3>
+
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
