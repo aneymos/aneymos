@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="d0883ef47b226da8c2f78c953a336802.jpg" width="100%" alt="Banner">
+  <img src="d0883ef47b226da8c2f78c953a336802.jpg" width="200%" alt="Banner">
 
   <h1>Hello, I'm Afif Muhammad Iqbal 👋</h1>
 
