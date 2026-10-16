@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=150&section=header&text=Hi,%20I'm%20Afif%20Mummad%20Iqbal&fontSize=40&fontColor=fbe400&fontAlignY=40&desc=Software%20Developer&descSize=25&descAlignY=60&animation=fadeIn" 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
